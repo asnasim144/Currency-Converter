@@ -74,7 +74,7 @@ function App() {
 
     return (
         <>
-            <h1>Converter</h1>
+            <h1>Converter </h1>
             <Input
                 currencyOptions={currencyOptions}
                 selectedCurrency={fromCurency}
