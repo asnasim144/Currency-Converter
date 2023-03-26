@@ -84,7 +84,7 @@ function App() {
                 onChangeAmount={handleFromAmountChange}
                 amount={fromAmount}
             />
-            <div className="equal">=</div>
+            <div className="equal ">=</div>
             <Input
                 currencyOptions={currencyOptions}
                 selectedCurrency={toCurency}
